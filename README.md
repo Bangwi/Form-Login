@@ -11,9 +11,7 @@ Ini adalah project halaman login sederhana dan **gratis** yang dirancang menggun
 - Responsif di berbagai ukuran layar (mobile friendly)
 - Background gradasi biru yang menarik
 
-## 🖼️ Preview
 
-![Preview Halaman Login](https://via.placeholder.com/800x400.png?text=Preview+Login+Page)
 
 ## 🚀 Teknologi yang Digunakan
 
